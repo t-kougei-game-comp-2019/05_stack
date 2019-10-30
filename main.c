@@ -17,12 +17,12 @@ Stack_Node* PopStack(Stack_Node* Top){
 }
 void ShowStack(const Stack_Node* Top)
 {
-	Stack_Node *Now = Top;
+	//const Stack_Node *Now = Top;
 	while (1)
 	{
-		printf("%d", Now->data);
-		Now = Now->Under;
-		if(Now==NULL)
+		printf("%d", Top->data);
+		Top = Top->Under;
+		if(Top==NULL)
 			break;
 		printf(",");
 	}
