@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.com/t-kougei-game-comp-2019/05_stack.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp-2019/05_stack)
+[![Build Status](https://travis-ci.com/Kuryu86/05_stack.svg?branch=master)](https://travis-ci.com/Kuryu86/05_stack)
 
 # 今回の問題
 
